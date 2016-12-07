@@ -12,7 +12,7 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.cluster import KMeans
 
 
-class ActivityRecognizer(object):
+class ActivityRecognizationModel(object):
     def __init__(self, location_label_num, activity_label_num, training_data_dir):
         self.training_data_X, self.training_data_Y1, self.training_data_Y2, self.data_GPS = self.load_data(training_data_dir)
         self.location_label_num = location_label_num
@@ -97,9 +97,9 @@ class ActivityRecognizer(object):
         self.location_model = RandomForestClassifier(n_estimators=n_estimators, max_depth=max_depth)
         self.location_model.fit(self.training_data_X, self.training_data_Y2)
 
-    def predict(self, test_X):
-        Y1 = self.activity_model.predict(test_X)
-        Y2 = self.location_model.predict(test_X)
+    def predict(self, X):
+        Y1 = self.activity_model.predict(X)
+        Y2 = self.location_model.predict(X)
         return Y1, Y2
 
     def test(self, test_dir, limit=sys.maxint, use_RNN=False, GPS_only=False):
@@ -114,6 +114,6 @@ class ActivityRecognizer(object):
 
 
 if __name__ == "__main__":
-    ar = ActivityRecognizer(25, 14, 'training_data')
+    ar = ActivityRecognizationModel(25, 14, 'training_data')
     ar.train("NN", GPS_only=False, solver='lbfgs', hidden_layer_sizes=(5, 2, 2, 2))
     print ar.test('training_data', GPS_only=False)

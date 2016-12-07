@@ -47,11 +47,6 @@ class CompareModelExperiment(ExperimentBase):
         svm_training_error1, svm_training_error2 = ar.test('training_data')
         svm_test_error1, svm_test_error2 = ar.test('test_data')
         print "Train RF"
-        print nn_training_error1, svm_training_error1
-        print nn_training_error2, svm_training_error2
-        print nn_test_error1, svm_test_error1
-        print nn_test_error2, svm_test_error2
-        exit(0)
         ar = ActivityRecognizer(25, 14, 'training_data')
         ar.train("RF", GPS_only=False, n_estimators=2000, max_depth=1)
         print "Test RF"
