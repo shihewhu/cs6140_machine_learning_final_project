@@ -1,0 +1,311 @@
+Timestamp, Data Source, Data, Display Value, Raw Value
+2016-11-15T15:38:08Z, GPS, Latitude, 42.3387954028797
+2016-11-15T15:38:08Z, GPS, Longitude, -71.0882117163108
+2016-11-15T15:38:08Z, GPS, Altitude, 10.3877830505371
+2016-11-15T15:38:08Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:08Z, Acceleration (via User), x, 0.0185386203229427
+2016-11-15T15:38:08Z, Acceleration (via User), y, 0.00727800279855728
+2016-11-15T15:38:08Z, Acceleration (via User), z, 0.0270065180957317
+2016-11-15T15:38:08Z, Attitude, Roll, -0.041175352837157
+2016-11-15T15:38:08Z, Attitude, Yaw, -1.37474049813236
+2016-11-15T15:38:08Z, Attitude, Pitch, 0.599714611672297
+2016-11-15T15:38:08Z, Magnetometer (corrected for device), x, -7.70890140533447
+2016-11-15T15:38:08Z, Magnetometer (corrected for device), y, -26.6899127960205
+2016-11-15T15:38:08Z, Magnetometer (corrected for device), z, -29.8189392089844
+2016-11-15T15:38:08Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:38:08Z, GPS, Latitude, 42.3387954028797
+2016-11-15T15:38:08Z, GPS, Longitude, -71.0882117163108
+2016-11-15T15:38:08Z, GPS, Altitude, 10.3877830505371
+2016-11-15T15:38:08Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:10Z, GPS, Latitude, 42.3387938797429
+2016-11-15T15:38:10Z, GPS, Longitude, -71.0882101066832
+2016-11-15T15:38:10Z, GPS, Altitude, 10.4153451919556
+2016-11-15T15:38:10Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:15Z, GPS, Latitude, 42.3388422712064
+2016-11-15T15:38:15Z, GPS, Longitude, -71.0882074548576
+2016-11-15T15:38:15Z, GPS, Altitude, 10.0887269973755
+2016-11-15T15:38:15Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:17Z, Acceleration (via User), x, -0.000854460231494159
+2016-11-15T15:38:17Z, Acceleration (via User), y, 0.0011652905959636
+2016-11-15T15:38:17Z, Acceleration (via User), z, 9.46660511544906e-05
+2016-11-15T15:38:17Z, Attitude, Roll, 0.0244626901438955
+2016-11-15T15:38:17Z, Attitude, Yaw, -1.53341011162254
+2016-11-15T15:38:17Z, Attitude, Pitch, -0.00602163545601801
+2016-11-15T15:38:17Z, Magnetometer (corrected for device), x, -8.37609195709229
+2016-11-15T15:38:17Z, Magnetometer (corrected for device), y, -9.89341926574707
+2016-11-15T15:38:17Z, Magnetometer (corrected for device), z, -29.4918823242188
+2016-11-15T15:38:17Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:38:24Z, GPS, Latitude, 42.3388501204068
+2016-11-15T15:38:24Z, GPS, Longitude, -71.0882051168318
+2016-11-15T15:38:24Z, GPS, Altitude, 10.0887269973755
+2016-11-15T15:38:24Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:26Z, GPS, Latitude, 42.3388245001229
+2016-11-15T15:38:26Z, GPS, Longitude, -71.0881977237581
+2016-11-15T15:38:26Z, GPS, Altitude, 10.1542835235596
+2016-11-15T15:38:26Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:26Z, Acceleration (via User), x, -0.000821374997030944
+2016-11-15T15:38:26Z, Acceleration (via User), y, -0.000637125223875046
+2016-11-15T15:38:26Z, Acceleration (via User), z, 0.00157578464131802
+2016-11-15T15:38:26Z, Attitude, Roll, 0.0237122531953095
+2016-11-15T15:38:26Z, Attitude, Yaw, -1.53105024504632
+2016-11-15T15:38:26Z, Attitude, Pitch, -0.00631343667565026
+2016-11-15T15:38:26Z, Magnetometer (corrected for device), x, -7.77880191802979
+2016-11-15T15:38:26Z, Magnetometer (corrected for device), y, -9.21539497375488
+2016-11-15T15:38:26Z, Magnetometer (corrected for device), z, -29.5603637695312
+2016-11-15T15:38:26Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:38:35Z, GPS, Latitude, 42.3388252339042
+2016-11-15T15:38:35Z, GPS, Longitude, -71.0881964765472
+2016-11-15T15:38:35Z, GPS, Altitude, 10.1542835235596
+2016-11-15T15:38:35Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:35Z, Acceleration (via User), x, 0.000239187414990738
+2016-11-15T15:38:35Z, Acceleration (via User), y, -0.000294364173896611
+2016-11-15T15:38:35Z, Acceleration (via User), z, 0.000610994582530111
+2016-11-15T15:38:35Z, Attitude, Roll, 0.0231703514374874
+2016-11-15T15:38:35Z, Attitude, Yaw, -1.52961193954868
+2016-11-15T15:38:35Z, Attitude, Pitch, -0.00645895986364291
+2016-11-15T15:38:35Z, Magnetometer (corrected for device), x, -8.15319156646729
+2016-11-15T15:38:35Z, Magnetometer (corrected for device), y, -9.36700630187988
+2016-11-15T15:38:35Z, Magnetometer (corrected for device), z, -30.0865783691406
+2016-11-15T15:38:35Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:38:38Z, GPS, Latitude, 42.338824141595
+2016-11-15T15:38:38Z, GPS, Longitude, -71.0882014366657
+2016-11-15T15:38:38Z, GPS, Altitude, 10.136456489563
+2016-11-15T15:38:38Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:44Z, Acceleration (via User), x, -0.000612739997450262
+2016-11-15T15:38:44Z, Acceleration (via User), y, 9.61260739131831e-05
+2016-11-15T15:38:44Z, Acceleration (via User), z, -0.00136501609813422
+2016-11-15T15:38:44Z, Attitude, Roll, 0.0228625104074963
+2016-11-15T15:38:44Z, Attitude, Yaw, -1.52871080642515
+2016-11-15T15:38:44Z, Attitude, Pitch, -0.00637364364052937
+2016-11-15T15:38:44Z, Magnetometer (corrected for device), x, -8.07759952545166
+2016-11-15T15:38:44Z, Magnetometer (corrected for device), y, -9.51669502258301
+2016-11-15T15:38:44Z, Magnetometer (corrected for device), z, -29.938232421875
+2016-11-15T15:38:44Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:38:47Z, GPS, Latitude, 42.3388247224417
+2016-11-15T15:38:47Z, GPS, Longitude, -71.0882004485448
+2016-11-15T15:38:47Z, GPS, Altitude, 10.136456489563
+2016-11-15T15:38:47Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:49Z, GPS, Latitude, 42.3388353940215
+2016-11-15T15:38:49Z, GPS, Longitude, -71.0882101280004
+2016-11-15T15:38:49Z, GPS, Altitude, 10.1021814346313
+2016-11-15T15:38:49Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:38:53Z, Acceleration (via User), x, -0.000265144510194659
+2016-11-15T15:38:53Z, Acceleration (via User), y, -0.00137039285618812
+2016-11-15T15:38:53Z, Acceleration (via User), z, 0.00062108226120472
+2016-11-15T15:38:53Z, Attitude, Roll, 0.0227285140346911
+2016-11-15T15:38:53Z, Attitude, Yaw, -1.52768279949499
+2016-11-15T15:38:53Z, Attitude, Pitch, -0.00646687350333189
+2016-11-15T15:38:53Z, Magnetometer (corrected for device), x, -7.92730045318604
+2016-11-15T15:38:53Z, Magnetometer (corrected for device), y, -9.59155464172363
+2016-11-15T15:38:53Z, Magnetometer (corrected for device), z, -28.7391357421875
+2016-11-15T15:38:53Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:38:58Z, GPS, Latitude, 42.3388358629081
+2016-11-15T15:38:58Z, GPS, Longitude, -71.0882093241866
+2016-11-15T15:38:58Z, GPS, Altitude, 10.1021814346313
+2016-11-15T15:38:58Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:02Z, Acceleration (via User), x, -0.00125758477952331
+2016-11-15T15:39:02Z, Acceleration (via User), y, -0.000407529558287933
+2016-11-15T15:39:02Z, Acceleration (via User), z, 0.000593849516008049
+2016-11-15T15:39:02Z, Attitude, Roll, 0.022530740850804
+2016-11-15T15:39:02Z, Attitude, Yaw, -1.52634484502633
+2016-11-15T15:39:02Z, Attitude, Pitch, -0.00664842325771545
+2016-11-15T15:39:02Z, Magnetometer (corrected for device), x, -8.22519779205322
+2016-11-15T15:39:02Z, Magnetometer (corrected for device), y, -10.1179676055908
+2016-11-15T15:39:02Z, Magnetometer (corrected for device), z, -28.8944091796875
+2016-11-15T15:39:02Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:39:06Z, GPS, Latitude, 42.3388387290304
+2016-11-15T15:39:06Z, GPS, Longitude, -71.0882070207815
+2016-11-15T15:39:06Z, GPS, Altitude, 10.1195631027222
+2016-11-15T15:39:06Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:11Z, Attitude, Roll, 0.0225787467494978
+2016-11-15T15:39:11Z, Attitude, Yaw, -1.52564009255351
+2016-11-15T15:39:11Z, Attitude, Pitch, -0.00655809553536011
+2016-11-15T15:39:11Z, Acceleration (via User), x, 0.000555981358047575
+2016-11-15T15:39:11Z, Acceleration (via User), y, -0.000546085648238659
+2016-11-15T15:39:11Z, Acceleration (via User), z, -0.000230611462029628
+2016-11-15T15:39:11Z, Magnetometer (corrected for device), x, -7.92549991607666
+2016-11-15T15:39:11Z, Magnetometer (corrected for device), y, -10.0412769317627
+2016-11-15T15:39:11Z, Magnetometer (corrected for device), z, -29.2688903808594
+2016-11-15T15:39:11Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:39:15Z, GPS, Latitude, 42.3388390868357
+2016-11-15T15:39:15Z, GPS, Longitude, -71.088206406972
+2016-11-15T15:39:15Z, GPS, Altitude, 10.1195631027222
+2016-11-15T15:39:15Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:18Z, GPS, Latitude, 42.3388340729434
+2016-11-15T15:39:18Z, GPS, Longitude, -71.0882089910272
+2016-11-15T15:39:18Z, GPS, Altitude, 10.11159324646
+2016-11-15T15:39:18Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:20Z, Acceleration (via User), x, 0.000912737392354757
+2016-11-15T15:39:20Z, Acceleration (via User), y, -8.00376801635139e-05
+2016-11-15T15:39:20Z, Acceleration (via User), z, -0.000941791338846087
+2016-11-15T15:39:20Z, Attitude, Roll, 0.0222829596229445
+2016-11-15T15:39:20Z, Attitude, Yaw, -1.52509911528039
+2016-11-15T15:39:20Z, Attitude, Pitch, -0.00665662492719366
+2016-11-15T15:39:20Z, Magnetometer (corrected for device), x, -8.00049686431885
+2016-11-15T15:39:20Z, Magnetometer (corrected for device), y, -10.0414600372314
+2016-11-15T15:39:20Z, Magnetometer (corrected for device), z, -29.6438293457031
+2016-11-15T15:39:20Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:39:27Z, GPS, Latitude, 42.3388343766422
+2016-11-15T15:39:27Z, GPS, Longitude, -71.0882084708991
+2016-11-15T15:39:27Z, GPS, Altitude, 10.11159324646
+2016-11-15T15:39:27Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:29Z, Attitude, Roll, 0.0223530142955658
+2016-11-15T15:39:29Z, Attitude, Yaw, -1.52513657955215
+2016-11-15T15:39:29Z, Attitude, Pitch, -0.00674502276057229
+2016-11-15T15:39:29Z, Acceleration (via User), x, -0.000301694235531613
+2016-11-15T15:39:29Z, Acceleration (via User), y, -0.00061093841213733
+2016-11-15T15:39:29Z, Acceleration (via User), z, 0.00128383631817997
+2016-11-15T15:39:29Z, Magnetometer (corrected for device), x, -7.62639713287354
+2016-11-15T15:39:29Z, Magnetometer (corrected for device), y, -9.81474494934082
+2016-11-15T15:39:29Z, Magnetometer (corrected for device), z, -29.341796875
+2016-11-15T15:39:29Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:39:30Z, GPS, Latitude, 42.3388479190915
+2016-11-15T15:39:30Z, GPS, Longitude, -71.0882149090108
+2016-11-15T15:39:30Z, GPS, Altitude, 10.1184253692627
+2016-11-15T15:39:30Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:38Z, Acceleration (via User), x, 0.00021334360644687
+2016-11-15T15:39:38Z, Acceleration (via User), y, 0.000171715786564164
+2016-11-15T15:39:38Z, Acceleration (via User), z, 0.000399864133214578
+2016-11-15T15:39:38Z, Attitude, Roll, 0.0223262405975648
+2016-11-15T15:39:38Z, Attitude, Yaw, -1.52450804692454
+2016-11-15T15:39:38Z, Attitude, Pitch, -0.00667953017270743
+2016-11-15T15:39:38Z, Magnetometer (corrected for device), x, -7.85140323638916
+2016-11-15T15:39:38Z, Magnetometer (corrected for device), y, -9.81582832336426
+2016-11-15T15:39:38Z, Magnetometer (corrected for device), z, -29.4165954589844
+2016-11-15T15:39:38Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:39:39Z, GPS, Latitude, 42.3388481778889
+2016-11-15T15:39:39Z, GPS, Longitude, -71.0882144621798
+2016-11-15T15:39:39Z, GPS, Altitude, 10.1184253692627
+2016-11-15T15:39:39Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:41Z, GPS, Latitude, 42.3388438342634
+2016-11-15T15:39:41Z, GPS, Longitude, -71.088204021682
+2016-11-15T15:39:41Z, GPS, Altitude, 10.1190795898438
+2016-11-15T15:39:41Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:47Z, Acceleration (via User), x, -0.000479983515106142
+2016-11-15T15:39:47Z, Acceleration (via User), y, 0.00216237315908074
+2016-11-15T15:39:47Z, Acceleration (via User), z, 0.0065043936483562
+2016-11-15T15:39:47Z, Attitude, Roll, 0.0221650890649782
+2016-11-15T15:39:47Z, Attitude, Yaw, -1.52417146958976
+2016-11-15T15:39:47Z, Attitude, Pitch, -0.00705399395794186
+2016-11-15T15:39:47Z, Magnetometer (corrected for device), x, -7.55140018463135
+2016-11-15T15:39:47Z, Magnetometer (corrected for device), y, -9.81418037414551
+2016-11-15T15:39:47Z, Magnetometer (corrected for device), z, -29.7168579101562
+2016-11-15T15:39:47Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:39:50Z, GPS, Latitude, 42.3388440590586
+2016-11-15T15:39:50Z, GPS, Longitude, -71.0882036354578
+2016-11-15T15:39:50Z, GPS, Altitude, 10.1190795898438
+2016-11-15T15:39:50Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:53Z, GPS, Latitude, 42.3388287255881
+2016-11-15T15:39:53Z, GPS, Longitude, -71.0881967900395
+2016-11-15T15:39:53Z, GPS, Altitude, 10.1314897537231
+2016-11-15T15:39:53Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:39:56Z, Acceleration (via User), x, 0.000272391946054995
+2016-11-15T15:39:56Z, Acceleration (via User), y, 3.27357156493235e-05
+2016-11-15T15:39:56Z, Acceleration (via User), z, 5.41452354809735e-05
+2016-11-15T15:39:56Z, Attitude, Roll, 0.0220992802706843
+2016-11-15T15:39:56Z, Attitude, Yaw, -1.52451151725727
+2016-11-15T15:39:56Z, Attitude, Pitch, -0.00665066292104037
+2016-11-15T15:39:56Z, Magnetometer (corrected for device), x, -7.40140628814697
+2016-11-15T15:39:56Z, Magnetometer (corrected for device), y, -9.8132495880127
+2016-11-15T15:39:56Z, Magnetometer (corrected for device), z, -30.0920104980469
+2016-11-15T15:39:56Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:02Z, GPS, Latitude, 42.3388289235061
+2016-11-15T15:40:02Z, GPS, Longitude, -71.0881964530411
+2016-11-15T15:40:02Z, GPS, Altitude, 10.1314897537231
+2016-11-15T15:40:02Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:05Z, GPS, Latitude, 42.3388407224289
+2016-11-15T15:40:05Z, GPS, Longitude, -71.0882161637666
+2016-11-15T15:40:05Z, GPS, Altitude, 10.1412935256958
+2016-11-15T15:40:05Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:05Z, Acceleration (via User), x, -0.000248206983087584
+2016-11-15T15:40:05Z, Acceleration (via User), y, -0.000136087663122453
+2016-11-15T15:40:05Z, Acceleration (via User), z, 0.0006944271735847
+2016-11-15T15:40:05Z, Attitude, Roll, 0.0221163483652925
+2016-11-15T15:40:05Z, Attitude, Yaw, -1.52527174110238
+2016-11-15T15:40:05Z, Attitude, Pitch, -0.00668215789198556
+2016-11-15T15:40:05Z, Magnetometer (corrected for device), x, -7.55049991607666
+2016-11-15T15:40:05Z, Magnetometer (corrected for device), y, -10.0393238067627
+2016-11-15T15:40:05Z, Magnetometer (corrected for device), z, -29.4192504882812
+2016-11-15T15:40:05Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:14Z, GPS, Latitude, 42.3388408962129
+2016-11-15T15:40:14Z, GPS, Longitude, -71.0882158646459
+2016-11-15T15:40:14Z, GPS, Altitude, 10.1412935256958
+2016-11-15T15:40:14Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:14Z, Acceleration (via User), x, 0.0001280079013668
+2016-11-15T15:40:14Z, Acceleration (via User), y, 0.00150630285497755
+2016-11-15T15:40:14Z, Acceleration (via User), z, 0.000117233583296183
+2016-11-15T15:40:14Z, Attitude, Roll, 0.0220452667273452
+2016-11-15T15:40:14Z, Attitude, Yaw, -1.52564958995891
+2016-11-15T15:40:14Z, Attitude, Pitch, -0.00651986635060783
+2016-11-15T15:40:14Z, Magnetometer (corrected for device), x, -7.3255090713501
+2016-11-15T15:40:14Z, Magnetometer (corrected for device), y, -10.0379810333252
+2016-11-15T15:40:14Z, Magnetometer (corrected for device), z, -29.8694458007812
+2016-11-15T15:40:14Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:16Z, GPS, Latitude, 42.3387985802323
+2016-11-15T15:40:16Z, GPS, Longitude, -71.0881972778078
+2016-11-15T15:40:16Z, GPS, Altitude, 10.161376953125
+2016-11-15T15:40:16Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:23Z, Acceleration (via User), x, -0.000618570484220982
+2016-11-15T15:40:23Z, Acceleration (via User), y, 0.00104591168928891
+2016-11-15T15:40:23Z, Acceleration (via User), z, 0.00107877911068499
+2016-11-15T15:40:23Z, Attitude, Roll, 0.0219831376511412
+2016-11-15T15:40:23Z, Attitude, Yaw, -1.52568568352765
+2016-11-15T15:40:23Z, Attitude, Pitch, -0.00669034431814285
+2016-11-15T15:40:23Z, Magnetometer (corrected for device), x, -7.70079898834229
+2016-11-15T15:40:23Z, Magnetometer (corrected for device), y, -9.96470832824707
+2016-11-15T15:40:23Z, Magnetometer (corrected for device), z, -30.1683044433594
+2016-11-15T15:40:23Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:25Z, GPS, Latitude, 42.3387987377966
+2016-11-15T15:40:25Z, GPS, Longitude, -71.0881970131522
+2016-11-15T15:40:25Z, GPS, Altitude, 10.161376953125
+2016-11-15T15:40:25Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:28Z, GPS, Latitude, 42.3388012628194
+2016-11-15T15:40:28Z, GPS, Longitude, -71.0881957881039
+2016-11-15T15:40:28Z, GPS, Altitude, 10.1899967193604
+2016-11-15T15:40:28Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:32Z, Acceleration (via User), x, -0.000742955016903579
+2016-11-15T15:40:32Z, Acceleration (via User), y, -0.00141548633109778
+2016-11-15T15:40:32Z, Acceleration (via User), z, 0.000132790155475959
+2016-11-15T15:40:32Z, Attitude, Roll, 0.0220159610001123
+2016-11-15T15:40:32Z, Attitude, Yaw, -1.52562676157988
+2016-11-15T15:40:32Z, Attitude, Pitch, -0.00657300438139403
+2016-11-15T15:40:32Z, Magnetometer (corrected for device), x, -7.25200748443604
+2016-11-15T15:40:32Z, Magnetometer (corrected for device), y, -9.66272163391113
+2016-11-15T15:40:32Z, Magnetometer (corrected for device), z, -29.6405944824219
+2016-11-15T15:40:32Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:37Z, GPS, Latitude, 42.3388014036948
+2016-11-15T15:40:37Z, GPS, Longitude, -71.088195551275
+2016-11-15T15:40:37Z, GPS, Altitude, 10.1899967193604
+2016-11-15T15:40:37Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:39Z, GPS, Latitude, 42.3388419087215
+2016-11-15T15:40:39Z, GPS, Longitude, -71.0882092841992
+2016-11-15T15:40:39Z, GPS, Altitude, 10.1736459732056
+2016-11-15T15:40:39Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:41Z, Attitude, Roll, 0.0219427879301867
+2016-11-15T15:40:41Z, Attitude, Yaw, -1.52570656748834
+2016-11-15T15:40:41Z, Attitude, Pitch, -0.00675713745608971
+2016-11-15T15:40:41Z, Magnetometer (corrected for device), x, -7.32581424713135
+2016-11-15T15:40:41Z, Magnetometer (corrected for device), y, -9.96283149719238
+2016-11-15T15:40:41Z, Magnetometer (corrected for device), z, -30.1686706542969
+2016-11-15T15:40:41Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:41Z, Acceleration (via User), x, 1.6124563444464e-06
+2016-11-15T15:40:41Z, Acceleration (via User), y, -0.000882452237419784
+2016-11-15T15:40:41Z, Acceleration (via User), z, 0.00306285894475877
+2016-11-15T15:40:49Z, GPS, Latitude, 42.3388420516303
+2016-11-15T15:40:49Z, GPS, Longitude, -71.0882090385648
+2016-11-15T15:40:49Z, GPS, Altitude, 10.1736459732056
+2016-11-15T15:40:49Z, GPS, Horizontal Accuracy, 65.0
+2016-11-15T15:40:50Z, Acceleration (via User), x, 0.00373994070105255
+2016-11-15T15:40:50Z, Acceleration (via User), y, -0.0126189393922687
+2016-11-15T15:40:50Z, Acceleration (via User), z, -0.0442390702664852
+2016-11-15T15:40:50Z, Attitude, Roll, 0.237859039768186
+2016-11-15T15:40:50Z, Attitude, Yaw, -1.61126127817661
+2016-11-15T15:40:50Z, Attitude, Pitch, 0.555866477946544
+2016-11-15T15:40:50Z, Magnetometer (corrected for device), x, 5.27963924407959
+2016-11-15T15:40:50Z, Magnetometer (corrected for device), y, -30.0739002227783
+2016-11-15T15:40:50Z, Magnetometer (corrected for device), z, -31.9674377441406
+2016-11-15T15:40:50Z, Magnetometer (corrected for device), Estimated Accuracy, High
+2016-11-15T15:40:51Z, GPS, Latitude, 42.3388462238009
+2016-11-15T15:40:51Z, GPS, Longitude, -71.0882218980799
+2016-11-15T15:40:51Z, GPS, Altitude, 10.1528177261353
+2016-11-15T15:40:51Z, GPS, Horizontal Accuracy, 65.0

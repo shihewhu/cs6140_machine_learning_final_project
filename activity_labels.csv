@@ -1,0 +1,15 @@
+label_name,index
+resting,0
+walking,1
+eating,2
+driving,3
+studying,4
+Car Servicing,5
+attending ML class,6
+N/A,7
+mailing,8
+singing,9
+shopping,10
+cutting hair,11
+attending NLP class,12
+exercising,13

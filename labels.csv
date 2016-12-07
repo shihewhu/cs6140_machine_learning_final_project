@@ -1,0 +1,212 @@
+start_time,end_time,lable_activity,lable_location
+11/9/16 10:25,11/9/16 11:23,driving,on the way
+11/9/16 11:23,11/9/16 11:32,walking,on the way
+11/9/16 11:32,11/9/16 12:05,eating,Symphony Sushi
+11/9/16 12:05,11/9/16 12:20,walking,on the way
+11/9/16 12:20,11/9/16 17:50,studying,Snell Library
+11/9/16 17:50,11/9/16 17:53,walking,on the way
+11/9/16 17:53,11/9/16 18:21,eating,Curry Student Center
+11/9/16 18:21,11/9/16 18:22,walking,on the way
+11/9/16 18:22,11/10/16 1:16,studying,Snell Library
+11/10/16 1:16,11/10/16 1:43,driving,on the way
+11/10/16 1:43,11/10/16 10:08,resting,home
+11/10/16 10:08,11/10/16 10:30,driving,on the way
+11/10/16 10:30,11/10/16 10:40,eating,Curry Student Center
+11/10/16 10:40,11/10/16 10:43,walking,on the way
+11/10/16 10:43,11/10/16 11:33,studying,Snell Library
+11/10/16 11:33,11/10/16 11:39,walking,on the way
+11/10/16 11:39,11/10/16 1:28,attending ML class,Forsyth Building 130
+11/10/16 13:28,11/10/16 13:32,walking,on the way
+11/10/16 13:32,11/10/16 13:50,eating,Qdoba
+11/10/16 13:50,11/10/16 13:56,walking,on the way
+11/10/16 13:56,11/10/16 17:28,studying,Snell Library
+11/10/16 17:28,11/10/16 17:29,walking,on the way
+11/10/16 17:29,11/10/16 17:50,eating,Curry Student Center
+11/10/16 17:50,11/10/16 17:55,walking,on the way
+11/10/16 17:55,11/10/16 21:10,attending NLP class,Snell Library 033
+11/10/16 21:10,11/10/16 21:30,driving,on the way
+11/10/16 21:30,11/10/16 21:57,shopping,H-mart
+11/10/16 21:57,11/10/16 22:23,driving,on the way
+11/13/16 9:16,11/13/16 11:52,resting,home
+11/13/16 11:52,11/13/16 12:15,driving,on the way
+11/13/16 12:15,11/13/16 17:48,studying,Snell Library
+11/13/16 17:48,11/13/16 18:00,walking,on the way
+11/13/16 18:00,11/13/16 18:35,eating,Shawarma
+11/13/16 18:35,11/13/16 18:42,walking,on the way
+11/13/16 18:42,11/14/16 0:01,studying,Snell Library
+11/14/16 0:01,11/14/16 0:24,driving,on the way
+11/14/16 0:24,11/14/16 1:00,resting,home
+11/15/16 9:34,11/15/16 11:17,resting,home
+11/15/16 11:17,11/15/16 11:31,driving,on the way
+11/15/16 11:31,11/15/16 11:41,eating,Pho
+11/15/16 11:41,11/15/16 12:50,N/A,N/A
+11/15/16 12:50,11/15/16 13:08,cutting hair,Floyd's 99 Barbershop
+11/15/16 13:08,11/15/16 13:42,walking,on the way
+11/15/16 13:42,11/15/16 17:58,studying,Snell Library
+11/15/16 17:58,11/15/16 18:00,walking,on the way
+11/15/16 18:00,11/15/16 18:28,eating,Curry Student Center
+11/15/16 18:28,11/15/16 18:29,walking,on the way
+11/15/16 18:29,11/15/16 21:20,studying,Snell Library
+11/15/16 21:20,11/15/16 21:42,driving,on the way
+11/15/16 21:42,11/15/16 22:42,resting,home
+11/16/16 9:48,11/16/16 14:12,resting,home
+11/16/16 14:12,11/16/16 14:53,driving,on the way
+11/16/16 14:53,11/16/16 15:02,N/A,N/A
+11/16/16 15:02,11/16/16 15:07,shopping,CVS
+11/16/16 15:07,11/16/16 15:20,walking,on the way
+11/16/16 15:20,11/16/16 17:44,studying,Snell Library
+11/16/16 18:00,11/16/16 18:24,eating,Curry Student Center
+11/16/16 18:24,11/16/16 18:28,walking,on the way
+11/17/16 9:00,11/17/16 9:37,resting,home
+11/17/16 9:37,11/17/16 10:07,driving,on the way
+11/17/16 10:07,11/17/16 11:30,studying,Snell Library
+11/17/16 11:30,11/17/16 11:37,walking,on the way
+11/17/16 11:37,11/17/16 13:26,attending ML class,Forsyth Building 130
+11/17/16 13:26,11/17/16 13:35,walking,on the way
+11/17/16 13:35,11/17/16 13:55,eating,Qdoba
+11/17/16 13:55,11/17/16 13:58,walking,on the way
+11/17/16 13:58,11/17/16 14:08,N/A,N/A
+11/17/16 14:08,11/17/16 14:12,mailing,UPS Store
+11/17/16 14:12,11/17/16 14:22,walking,on the way
+11/17/16 14:22,11/17/16 17:19,studying,Snell Library
+11/17/16 17:19,11/17/16 17:30,walking,on the way
+11/17/16 17:30,11/17/16 17:48,eating,Curry Student Center
+11/17/16 17:48,11/17/16 17:54,walking,on the way
+11/17/16 17:54,11/17/16 21:00,attending NLP class,Snell Library 033
+11/17/16 21:00,11/17/16 21:33,driving,on the way
+11/17/16 21:33,11/17/16 22:33,resting,home
+11/19/16 10:38,11/19/16 11:47,resting,home
+11/19/16 11:47,11/19/16 12:06,driving,on the way
+11/19/16 12:06,11/19/16 12:34,eating,Pho
+11/19/16 12:34,11/19/16 12:40,walking,on the way
+11/19/16 12:40,11/19/16 18:08,studying,Snell Library
+11/19/16 18:08,11/19/16 18:40,walking,on the way
+11/19/16 18:40,11/19/16 19:05,eating,Boston Market
+11/19/16 19:05,11/19/16 19:27,walking,on the way
+11/19/16 19:27,11/20/16 0:00,studying,Snell Library
+11/20/16 0:00,11/20/16 0:22,driving,on the way
+11/20/16 0:22,11/20/16 10:38,resting,home
+11/20/16 10:38,11/20/16 11:13,driving,on the way
+11/20/16 11:13,11/20/16 13:08,studying,Snell Library
+11/20/16 13:08,11/20/16 13:13,walking,on the way
+11/20/16 13:13,11/20/16 13:43,eating,Pho
+11/20/16 13:43,11/20/16 13:51,walking,on the way
+11/20/16 13:51,11/20/16 17:25,studying,Snell Library
+11/21/16 9:43,11/21/16 9:59,resting,home
+11/21/16 9:59,11/21/16 10:25,driving,on the way
+11/21/16 10:25,11/21/16 11:35,studying,Snell Library
+11/21/16 13:35,11/21/16 11:42,walking,on the way
+11/21/16 11:42,11/21/16 13:30,attending ML class,Forsyth Building 130
+11/21/16 13:30,11/21/16 13:53,driving,on the way
+11/21/16 13:53,11/21/16 14:30,eating,Mala Restaurant
+11/21/16 14:55,11/21/16 14:59,driving,on the way
+11/21/16 14:59,11/21/16 15:15,shopping,Super88
+11/21/16 15:15,11/21/16 15:48,driving,on the way
+11/21/16 15:48,11/21/16 20:20,resting,home
+11/21/16 20:20,11/21/16 20:30,driving,on the way
+11/21/16 20:30,11/21/16 22:22,exercising,Marino Center
+11/21/16 22:22,11/21/16 22:42,driving,on the way
+11/22/16 0:00,11/22/16 23:59,resting,home
+11/23/16 12:49,11/23/16 19:06,studying,Snell Library
+11/23/16 19:06,11/23/16 19:41,driving,on the way
+11/23/16 19:41,11/23/16 21:40,eating,Happy Lamb
+11/23/16 21:40,11/23/16 22:16,driving,on the way
+11/23/16 22:16,11/23/16 22:24,driving,on the way
+11/23/16 22:24,11/23/16 22:54,resting,home
+11/24/16 10:22,11/24/16 11:50,resting,on the way
+11/24/16 11:50,11/24/16 11:59,driving,on the way
+11/24/16 11:59,11/24/16 12:10,driving,on the way
+11/24/16 12:10,11/24/16 12:50,eating,Sichuan Gourmet
+11/24/16 12:50,11/24/16 13:05,driving,on the way
+11/24/16 13:05,11/24/16 19:04,studying,Snell Library
+11/24/16 19:04,11/24/16 19:25,driving,on the way
+11/24/16 19:25,11/24/16 20:27,eating,Sichuan Gourmet
+11/24/16 20:27,11/24/16 20:48,driving,on the way
+11/24/16 20:48,11/24/16 22:42,studying,Snell Library
+11/24/16 22:42,11/24/16 22:59,driving,on the way
+11/24/16 22:59,11/24/16 23:59,resting,home
+11/25/16 10:10,11/25/16 11:00,resting,home
+11/25/16 11:00,11/25/16 11:25,driving,on the way
+11/25/16 11:25,11/25/16 13:24,Car Servicing,Honda Cars of Boston
+11/25/16 13:24,11/25/16 13:45,driving,on the way
+11/25/16 13:45,11/25/16 17:55,studying,Snell Library
+11/25/16 17:55,11/25/16 18:35,driving,on the way
+11/25/16 18:35,11/25/16 20:00,eating,BBQ Bar
+11/25/16 20:00,11/25/16 20:31,N/A,N/A
+11/25/16 20:31,11/25/16 22:30,singing,1986 KTV
+11/25/16 22:30,11/25/16 23:00,driving,on the way
+11/25/16 23:00,11/25/16 23:59,resting,home
+11/26/16 9:43,11/26/16 10:11,resting,home
+11/26/16 10:11,11/26/16 10:26,driving,on the way
+11/26/16 10:26,11/26/16 12:06,studying,Snell Library
+11/26/16 12:06,11/26/16 12:14,walking,on the way
+11/26/16 12:14,11/26/16 12:36,eating,Pho
+11/26/16 12:36,11/26/16 12:44,walking,on the way
+11/26/16 12:44,11/26/16 17:42,studying,Snell Library
+11/26/16 17:42,11/26/16 17:51,walking,on the way
+11/26/16 17:51,11/26/16 18:15,eating,Pho
+11/26/16 18:15,11/26/16 18:24,walking,on the way
+11/26/16 18:24,11/26/16 22:22,studying,Snell Library
+11/26/16 22:22,11/26/16 22:38,driving,on the way
+11/26/16 22:38,11/26/16 23:38,resting,home
+11/27/16 9:36,11/27/16 10:44,resting,home
+11/27/16 10:44,11/27/16 11:11,driving,on the way
+11/27/16 11:11,11/27/16 11:57,exercising,Marino Center
+11/27/16 11:57,11/27/16 12:04,walking,on the way
+11/27/16 12:04,11/27/16 13:04,studying,Snell Library
+11/27/16 13:04,11/27/16 13:38,driving,on the way
+11/27/16 13:38,11/27/16 14:46,eating,Bon Chon
+11/27/16 14:46,11/27/16 15:06,driving,on the way
+11/27/16 15:06,11/27/16 22:08,studying,Snell Library
+11/27/16 22:08,11/27/16 22:25,driving,on the way
+11/27/16 22:25,11/27/16 23:25,resting,home
+11/28/16 8:29,11/28/16 9:45,resting,home
+11/28/16 9:45,11/28/16 10:07,driving,on the way
+11/28/16 10:07,11/28/16 11:31,studying,Snell Library
+11/28/16 11:31,11/28/16 11:35,walking,on the way
+11/28/16 11:35,11/28/16 13:26,attending ML class,Forsyth Building 130
+11/28/16 13:26,11/28/16 13:30,walking,on the way
+11/28/16 13:30,11/28/16 13:47,eating,Qdoba
+11/28/16 13:47,11/28/16 13:51,walking,on the way
+11/28/16 13:51,11/28/16 18:15,studying,Snell Library
+11/28/16 18:15,11/28/16 18:16,walking,on the way
+11/28/16 18:16,11/28/16 18:42,eating,Curry Student Center
+11/28/16 18:42,11/28/16 18:44,walking,on the way
+11/28/16 18:44,11/28/16 23:10,studying,Snell Library
+11/28/16 23:10,11/28/16 23:39,driving,on the way
+11/28/16 23:39,11/28/16 23:59,resting,home
+11/29/16 17:36,11/29/16 18:03,eating,Curry Student Center
+11/29/16 18:03,11/29/16 18:05,walking,on the way
+11/29/16 18:05,11/29/16 23:41,studying,Snell Library
+11/29/16 23:41,11/30/16 0:02,driving,on the way
+11/30/16 0:02,11/30/16 0:42,resting,home
+11/30/16 8:29,11/30/16 9:28,resting,home
+11/30/16 9:28,11/30/16 9:48,driving,on the way
+11/30/16 9:48,11/30/16 12:08,studying,Snell Library
+11/30/16 12:08,11/30/16 12:10,walking,on the way
+11/30/16 12:10,11/30/16 12:29,eating,Curry Student Center
+11/30/16 12:29,11/30/16 12:31,walking,on the way
+11/30/16 12:31,11/30/16 17:23,studying,Snell Library
+11/30/16 17:23,11/30/16 17:26,walking,on the way
+11/30/16 17:26,11/30/16 17:52,eating,Curry Student Center
+11/30/16 17:52,11/30/16 17:56,walking,Snell Library
+11/30/16 17:56,11/30/16 23:14,studying,Snell Library
+11/30/16 23:14,11/30/16 23:47,driving,on the way
+11/30/16 23:47,12/1/16 0:10,resting,home
+12/1/16 8:57,12/1/16 9:27,resting,home
+12/1/16 9:27,12/1/16 9:50,driving,on the way
+12/1/16 9:50,12/1/16 11:30,studying,Snell Library
+12/1/16 11:30,12/1/16 11:34,walking,on the way
+12/1/16 11:34,12/1/16 13:28,attending ML class,Forsyth Building 130
+12/1/16 13:28,12/1/16 13:31,walking,on the way
+12/1/16 13:31,12/1/16 13:55,eating,Qdoba
+12/1/16 13:55,12/1/16 13:59,walking,on the way
+12/1/16 14:55,12/1/16 17:00,studying,Snell Library
+12/1/16 17:00,12/1/16 17:09,walking,on the way
+12/1/16 17:09,12/1/16 17:44,eating,Pho
+12/1/16 17:44,12/1/16 17:46,walking,on the way
+12/1/16 17:46,12/1/16 21:00,attending NLP class,Snell Library 033
+12/1/16 21:00,12/1/16 21:09,walking,on the way
+12/1/16 21:09,12/1/16 21:55,exercising,Marino Center
+12/1/16 21:55,12/1/16 22:10,driving,on the way
+12/1/16 22:10,12/1/16 23:10,resting,home
